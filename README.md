@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isac and I'm a Student's Full-Stack developer</h2>
+<h2 align="left">Hi 👋! My name is Isac and I'm a Full-Stack Student, from Campinas, Brasil</h2>
 
 ###
 
@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/isacgouveia/isacgouveia/refs/heads/main/snake.yml" alt="Snake animation" />
+
 
 ###
