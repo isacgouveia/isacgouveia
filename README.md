@@ -7,8 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isacgouveia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://static.wixstatic.com/media/7c8849_b871abec14364d408bc33eb8e6303e9d~mv2.gif"  />
-
 ## 🌐 Socials:
 
 <div align="left">
@@ -32,9 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-
-
 ###
+
+<img align="right" height="150" src="https://static.wixstatic.com/media/7c8849_b871abec14364d408bc33eb8e6303e9d~mv2.gif"  />
 
 <br clear="both">
 
